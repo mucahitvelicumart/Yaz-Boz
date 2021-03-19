@@ -1,0 +1,6 @@
+module Pods_YazBoz_YazBozTests {
+  umbrella header "Pods-YazBoz-YazBozTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
